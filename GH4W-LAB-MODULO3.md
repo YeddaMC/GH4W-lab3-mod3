@@ -53,7 +53,7 @@ O Resultado deverá ser assim. Aparecendo a nova branch criada com o nome que vo
 
 
 9. No campo Name your file escreva: arquivo.md e no campo abaixo “edit” adicione qualquer conteudo que queira.
-
+  *ESSA LINHA 56 FOI ADICIONADA NA EDIÇÃO DESSE ARQUIVO*
 
 
 10. Agora vamos salvar o arquivo na branch pois iremos utilizar na próxima atividade. Clique em Commit Changes
